@@ -8,19 +8,8 @@
 
 Built for both **security-conscious workflows** and **team-scale collaboration**, WithGiga ensures that your automation is protected and scalable.
 
-Visit our interactive demo at [play.withgiga.ai](https://play.withgiga.ai) to experience it firsthand.
-
 ---
 
-### How We Stand Out
-
-| Feature                  | Benefits                                                       |
-|--------------------------|----------------------------------------------------------------|
-| **Advanced Task Security** | State-of-the-art encryption protects your workflows.           |
-| **Scalable for Teams**     | Manage agents and tasks across multiple users and workspaces.   |
-| **Human-like Learning**    | Agents understand actions like clicks and keys—no scripts needed. |
-
----
 
 ### Explore Our Work
 
@@ -33,8 +22,8 @@ Visit our interactive demo at [play.withgiga.ai](https://play.withgiga.ai) to ex
 ### Company Info & Legal
 
 - **Headquarters:** 1 Sansome St, Suite 1400, San Francisco, CA 94104, USA  
-- **Privacy & Data Rights:** Learn how we collect, use, and protect data; users have rights like data access and deletion.:contentReference[oaicite:17]{index=17}  
-- **Terms of Service:** Covers acceptable use, account rules, intellectual property, and liability (governed under California law).:contentReference[oaicite:18]{index=18}
+- **Privacy & Data Rights:** Learn how we collect, use, and protect data; users have rights like data access and deletion.
+- **Terms of Service:** Covers acceptable use, account rules, intellectual property, and liability (governed under California law).
 
 ---
 
