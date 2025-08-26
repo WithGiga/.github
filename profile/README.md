@@ -13,9 +13,9 @@ Built for both **security-conscious workflows** and **team-scale collaboration**
 
 ### Explore Our Work
 
-- **GigaVNC**: Browser-based remote access via VNC.:contentReference[oaicite:14]{index=14}  
-- **PiCUA**: Open-source platform that merges AI with PiKVM to enable AI control over any physical computer (powered by agents like ours).:contentReference[oaicite:15]{index=15}  
-- **Documentation Portal**: Powered by Mintlify to help you get started with quickstarts, customization, API guides, and more.:contentReference[oaicite:16]{index=16}
+- **GigaVNC**: Browser-based remote access via VNC.
+- **PiCUA**: Open-source platform that merges AI with PiKVM to enable AI control over any physical computer (powered by agents like ours).
+- **Documentation Portal**: Powered by Mintlify to help you get started with quickstarts, customization, API guides, and more.
 
 ---
 
