@@ -10,15 +10,6 @@ Built for both **security-conscious workflows** and **team-scale collaboration**
 
 ---
 
-
-### Explore Our Work
-
-- **GigaVNC**: Browser-based remote access via VNC.
-- **PiCUA**: Open-source platform that merges AI with PiKVM to enable AI control over any physical computer (powered by agents like ours).
-- **Documentation Portal**: Powered by Mintlify to help you get started with quickstarts, customization, API guides, and more.
-
----
-
 ### Company Info & Legal
 
 - **Headquarters:** 1 Sansome St, Suite 1400, San Francisco, CA 94104, USA  
