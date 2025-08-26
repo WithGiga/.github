@@ -1,5 +1,5 @@
 ![WithGiga Light](/readme-assets/withgiga-logo.svg#gh-light-mode-only)
-![WithGiga Dark](/readme-assets/withgiga-log.svg#gh-dark-mode-only)
+![WithGiga Dark](/readme-assets/withgiga-logo.svg#gh-dark-mode-only)
 
 ## About WithGiga
 
