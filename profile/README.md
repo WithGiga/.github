@@ -1,7 +1,6 @@
-![WithGiga Light](/readme-assets/withgiga-black.png#gh-light-mode-only)
-![WithGiga Dark](/readme-assets/withgiga-white.png#gh-dark-mode-only)
+![WithGiga Light](/readme-assets/banner.png#gh-light-mode-only)
+![WithGiga Dark](/readme-assets/banner.png#gh-dark-mode-only)
 
-(/readme-assets/banner.png)
 
 ## About WithGiga
 
